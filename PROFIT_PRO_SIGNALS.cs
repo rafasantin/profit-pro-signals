@@ -23,6 +23,7 @@ using SharpDX.DirectWrite;
 using dx = SharpDX;
 using d2d = SharpDX.Direct2D1;
 using dw = SharpDX.DirectWrite;
+
 #endregion
 
 // =====================================================================
